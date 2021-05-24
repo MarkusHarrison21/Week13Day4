@@ -1,0 +1,14 @@
+h1{
+color: blue
+}
+
+body{
+text-align: center
+}
+
+.form-field * {
+    vertical-align: middle;
+}
+
+
+
